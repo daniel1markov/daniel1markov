@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daniel1markov
+- 👋 Hi, I’m @daniel markov
 - 🌱 I’m currently learning Computer Science BSc.
 - 📫 How to reach me daniel1markov@gmail.com
 
