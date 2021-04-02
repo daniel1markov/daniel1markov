@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @daniel markov
-- 🌱 I’m currently learning Computer Science BSc.
-- 📫 How to reach me daniel1markov@gmail.com
+- 👋 Hi, I’m Daniel Markov
+- 🌱 I’m currently learning Computer Science BSc 2nd year.
+- 📫 How to reach me: daniel1markov@gmail.com
 
 <!---
 daniel1markov/daniel1markov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
