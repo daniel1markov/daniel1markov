@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Daniel Markov
-- 🌱 I’m currently learning Computer Science BSc 3rd year.
 - 📫 How to reach me: daniel1markov@gmail.com
 
 <!---
